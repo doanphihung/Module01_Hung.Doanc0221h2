@@ -1,3 +1,4 @@
 ### Hung.doan_module1
-Bài 1: ababana
-dfdmfkdmfkd
+Bài 1: 
+- Học cách học
+- Quản lý công việc với Kanban
