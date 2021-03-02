@@ -1,0 +1,1 @@
+alert("Thông báo dịch Covid 19!");
