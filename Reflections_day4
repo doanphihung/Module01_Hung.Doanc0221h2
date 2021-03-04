@@ -1,0 +1,14 @@
+## Reflections_day4
+  #GIT & HTML
+• Hiểu được luồng chạy của Github
+• Clone được dữ liệu từ remote repository về local repository và ngược lại bằng các cú pháp: git clone, git add, git commit, git push 
+• Hiểu và vận dụng được một số thẻ cơ bản HTML: h1->h6, p, a, br, hr, ...
+• Form được sử dụng để gửi dữ liệu lên server
+• Thẻ <form> được sử dụng để tạo form
+• Có nhiều loại input khác nhau, chẳng hạn như text, password, radio... • Phương thức POST được sử dụng trong trường hợp gửi dữ liệu lên
+• Phương thức GET được sử dụng trong trường hợp lấy dữ liệu về
+• Thẻ <select> và <option> được sử dụng để tạo dropdown
+• Bảng được sử dụng để hiển thị dữ liệu dạng hàng và cột
+• Các thẻ để tạo bảng: <table>, <tr>, <th>, <td>
+• Có thể dử dụng thuộc tính colspan và rowspan để gộp cột và dòng
+• Sử dụng được các thẻ ul, ol, li
